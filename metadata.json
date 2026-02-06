@@ -1,0 +1,9 @@
+{
+  "name": "Bridges (جسور)",
+  "description": "تطبيق إغاثة وخدمات مجتمعية يعمل محلياً (Offline-First) لربط المستخدمين في حالات الطوارئ.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
